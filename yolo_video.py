@@ -1,5 +1,4 @@
-# python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco
-"""python yolo_video.py --input videos/overpass.mp4	--output output/overpass.avi --yolo yolo-coco"""
+# how to run --> python yolo_video.py --input videos/your_video.mp4 --output output/your_video_output.avi --yolo yolo-coco
 # necessary packages
 import numpy as np
 import argparse
