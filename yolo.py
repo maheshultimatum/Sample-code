@@ -1,4 +1,4 @@
-# python yolo.py --image images/baggage_claim.jpg --yolo yolo-coco
+# How to run --> python yolo.py --image images/your_image.jpg --yolo yolo-coco
 
 # import the necessary packages
 import numpy as np
